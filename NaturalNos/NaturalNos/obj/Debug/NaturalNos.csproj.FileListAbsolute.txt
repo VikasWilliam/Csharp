@@ -1,0 +1,12 @@
+C:\Users\VikasWilliam\Desktop\C#Programs\NaturalNos\NaturalNos\bin\Debug\NaturalNos.exe.config
+C:\Users\VikasWilliam\Desktop\C#Programs\NaturalNos\NaturalNos\bin\Debug\NaturalNos.exe
+C:\Users\VikasWilliam\Desktop\C#Programs\NaturalNos\NaturalNos\bin\Debug\NaturalNos.pdb
+C:\Users\VikasWilliam\Desktop\C#Programs\NaturalNos\NaturalNos\obj\Debug\NaturalNos.csprojResolveAssemblyReference.cache
+C:\Users\VikasWilliam\Desktop\C#Programs\NaturalNos\NaturalNos\obj\Debug\NaturalNos.exe
+C:\Users\VikasWilliam\Desktop\C#Programs\NaturalNos\NaturalNos\obj\Debug\NaturalNos.pdb
+C:\Users\VikasWilliam\Desktop\C#github\NaturalNos\NaturalNos\bin\Debug\NaturalNos.exe.config
+C:\Users\VikasWilliam\Desktop\C#github\NaturalNos\NaturalNos\obj\Debug\NaturalNos.exe
+C:\Users\VikasWilliam\Desktop\C#github\NaturalNos\NaturalNos\obj\Debug\NaturalNos.pdb
+C:\Users\VikasWilliam\Desktop\C#github\NaturalNos\NaturalNos\bin\Debug\NaturalNos.exe
+C:\Users\VikasWilliam\Desktop\C#github\NaturalNos\NaturalNos\bin\Debug\NaturalNos.pdb
+C:\Users\VikasWilliam\Desktop\C#github\NaturalNos\NaturalNos\obj\Debug\NaturalNos.csprojResolveAssemblyReference.cache
